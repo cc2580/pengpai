@@ -1,5 +1,5 @@
 　两个人一起开发GITHUB方法：
-　　1）注册一个github账号
+　　1）注册两个github账号
 　　2）在上面创建一个项目，可以对项目进行设置
 　　GitHub作为开源源代码管理以及版本控制系统，很多开源作者会在上面建立公开项目。Github目前拥有140多万开发者用户。随着越来越多的应用程序转移到了云上，Github已经成为了管理软件开发以及发现已有代码的首选方法。
 　　GitHub 是一个使用git分布式的版本控制系统，最初由Linus Torvalds编写，用作Linux内核代码的管理。而 git 最初是 Linus Torvalds 为帮助Linux开发而创造的，它针对的是 Linux 平台，因此 git 和 Windows 从来不是最好的朋友，因为它一点也不像 Windows。GitHub 发布了GitHub for Windows，为 Windows 平台开发者提供了一个易于使用的 Git 图形客户端。
