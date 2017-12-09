@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<<<<<<< HEAD
 　两个人一起开发GITHUB方法：
 <<<<<<< HEAD
@@ -13,6 +14,9 @@
 　　　　Git 是用于 Linux 内核开发的版本控制工具。与常用的版本控制工具 CVS, Subversion 等不同，它采用了分布式版本库的方式，不必服务器端软件支持（wingeddevil注：这得分是用什么样的服务端，使用http协议或者git协议等不 太一样。并且在push和pull的时候和服务器端还是有交互的。），使源代码的发布和交流极其方便。 Git 的速度很快，这对于诸如 Linux kernel 这样的大项目来说自然很重要。 Git 最为出色的是它的合并跟踪（merge tracing）能力。
 =======
 <!doctype html>									<!--声明-->
+=======
+<!doctype html>									<!--����-->
+>>>>>>> c396dc10290fb167400de30b990b91e39eb4dc7f
 <html>
  <head> 
 	<title>111</title>
@@ -24,6 +28,7 @@
 	
 	<img style = "width:500px;heigth:500px"
 	src="i:\pic\116642831.jpg"
+<<<<<<< HEAD
 	alt="图片加载失败"					
 	title="加载成功">	<hr><!--划线-->					<!--图片未加载时显示alt文字-->
 										<!--图片加载后显示title文字-->
@@ -50,15 +55,48 @@
 
 	<input type ="hidden" value="" name="">
 	<a href="http://www.baidu.com">跳转</a>	
+=======
+	alt="ͼƬ����ʧ��"					
+	title="���سɹ�">	<hr><!--����-->					<!--ͼƬδ����ʱ��ʾalt����-->
+										<!--ͼƬ���غ���ʾtitle����-->
+
+
+
+	<font size="5" color="red"disable>�ı���ǩ</font><br>			<!--sizeĬ��Ϊ3����Χ[-1,7]-->
+	<input type="text"  value=""/>	<br><!--����-->				<!--disabled����������-->
+
+
+
+	<input type="password"	value=""><br>					<!--�����-->
+	<input type="button" value="">��ͨ��ť<br>				<!--��ͨ��ť-->
+	<input type="submit" value="">�ύ��ť<br>				<!--�ύ��ť��form��ר���ύ��ť-->
+	<input type="radio" value="��"	name="sex"/>��				<!--��ѡ��-->
+	<input type="radio" value="Ů"	name="sex"/>Ů<br>	
+
+
+	<input type="checkbox" value="��" name="dinner">��			<!--��ѡ��-->	<!--��ѡ��͸�ѡ��ͨ��nameֵ����-->
+	<input type="checkbox" value="Ѽ" name="dinner">Ѽ
+	<input type="checkbox" value="��" name="dinner">��
+	<input type="checkbox" value="��" name="dinner">��<br>
+
+
+	<input type ="hidden" value="" name="">
+	<a href="http://www.baidu.com">��ת</a>	
+>>>>>>> c396dc10290fb167400de30b990b91e39eb4dc7f
 
 		
 	<span>
 	
+<<<<<<< HEAD
 	</span><!--段落标签，嵌入文本--><br>
+=======
+	</span><!--�����ǩ��Ƕ���ı�--><br>
+>>>>>>> c396dc10290fb167400de30b990b91e39eb4dc7f
 
 
 
 	<select name="IP" size="2" >
+<<<<<<< HEAD
 		<option value="">北京</option>
 		<option>北京</option>
 		<option>天津</option>
@@ -72,11 +110,33 @@
 		密码<input type="password" name=""/>
 		性别<input type="raido" value="" name="sex"/>
 		<input type="submit" value="提交"/>
+=======
+		<option value="">����</option>
+		<option>����</option>
+		<option>���</option>
+		<option>̫ԭ</option>
+		<option>�Ͼ�</option>
+	</select>
+	
+
+	<form action="http://www.google.com" method="get">				<!--form����methodΪ�ύ��ʽ��getΪ��ʽ�ύ��postΪ��ʽ�ύ -->
+		�û���<input type=" text" name=""/>
+		����<input type="password" name=""/>
+		�Ա�<input type="raido" value="" name="sex"/>
+		<input type="submit" value="�ύ"/>
+>>>>>>> c396dc10290fb167400de30b990b91e39eb4dc7f
 	</form>
 
 
 
+<<<<<<< HEAD
 	<h1 style="color:red">标题1</h1>									<!--标题标签，一般范围[1,6]-->
+
+  </body>
+</html>
+>>>>>>> c396dc10290fb167400de30b990b91e39eb4dc7f
+=======
+	<h1 style="color:red">����1</h1>									<!--�����ǩ��һ�㷶Χ[1,6]-->
 
   </body>
 </html>
