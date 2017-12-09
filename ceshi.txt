@@ -1,4 +1,4 @@
-<!doctype html>									<!--����-->
+﻿<!doctype html>									<!--声明-->
 <html>
  <head> 
 	<title>111</title>
@@ -10,59 +10,59 @@
 	
 	<img style = "width:500px;heigth:500px"
 	src="i:\pic\116642831.jpg"
-	alt="ͼƬ����ʧ��"					
-	title="���سɹ�">	<hr><!--����-->					<!--ͼƬδ����ʱ��ʾalt����-->
-										<!--ͼƬ���غ���ʾtitle����-->
+	alt="图片加载失败"					
+	title="加载成功">	<hr><!--划线-->					<!--图片未加载时显示alt文字-->
+										<!--图片加载后显示title文字-->
 
 
 
-	<font size="5" color="red"disable>�ı���ǩ</font><br>			<!--sizeĬ��Ϊ3����Χ[-1,7]-->
-	<input type="text"  value=""/>	<br><!--����-->				<!--disabled����������-->
+	<font size="5" color="red"disable>文本标签</font><br>			<!--size默认为3，范围[-1,7]-->
+	<input type="text"  value=""/>	<br><!--换行-->				<!--disabled不允许输入-->
 
 
 
-	<input type="password"	value=""><br>					<!--�����-->
-	<input type="button" value="">��ͨ��ť<br>				<!--��ͨ��ť-->
-	<input type="submit" value="">�ύ��ť<br>				<!--�ύ��ť��form��ר���ύ��ť-->
-	<input type="radio" value="��"	name="sex"/>��				<!--��ѡ��-->
-	<input type="radio" value="Ů"	name="sex"/>Ů<br>	
+	<input type="password"	value=""><br>					<!--密码框-->
+	<input type="button" value="">普通按钮<br>				<!--普通按钮-->
+	<input type="submit" value="">提交按钮<br>				<!--提交按钮，form表专用提交按钮-->
+	<input type="radio" value="男"	name="sex"/>男				<!--单选框-->
+	<input type="radio" value="女"	name="sex"/>女<br>	
 
 
-	<input type="checkbox" value="��" name="dinner">��			<!--��ѡ��-->	<!--��ѡ��͸�ѡ��ͨ��nameֵ����-->
-	<input type="checkbox" value="Ѽ" name="dinner">Ѽ
-	<input type="checkbox" value="��" name="dinner">��
-	<input type="checkbox" value="��" name="dinner">��<br>
+	<input type="checkbox" value="鸡" name="dinner">鸡			<!--复选框-->	<!--单选框和复选框通过name值区别-->
+	<input type="checkbox" value="鸭" name="dinner">鸭
+	<input type="checkbox" value="鱼" name="dinner">鱼
+	<input type="checkbox" value="熊" name="dinner">熊<br>
 
 
 	<input type ="hidden" value="" name="">
-	<a href="http://www.baidu.com">��ת</a>	
+	<a href="http://www.baidu.com">跳转</a>	
 
 		
 	<span>
 	
-	</span><!--�����ǩ��Ƕ���ı�--><br>
+	</span><!--段落标签，嵌入文本--><br>
 
 
 
 	<select name="IP" size="2" >
-		<option value="">����</option>
-		<option>����</option>
-		<option>���</option>
-		<option>̫ԭ</option>
-		<option>�Ͼ�</option>
+		<option value="">北京</option>
+		<option>北京</option>
+		<option>天津</option>
+		<option>太原</option>
+		<option>南京</option>
 	</select>
 	
 
-	<form action="http://www.google.com" method="get">				<!--form����methodΪ�ύ��ʽ��getΪ��ʽ�ύ��postΪ��ʽ�ύ -->
-		�û���<input type=" text" name=""/>
-		����<input type="password" name=""/>
-		�Ա�<input type="raido" value="" name="sex"/>
-		<input type="submit" value="�ύ"/>
+	<form action="http://www.google.com" method="get">				<!--form表单method为提交方式，get为显式提交，post为隐式提交 -->
+		用户名<input type=" text" name=""/>
+		密码<input type="password" name=""/>
+		性别<input type="raido" value="" name="sex"/>
+		<input type="submit" value="提交"/>
 	</form>
 
 
 
-	<h1 style="color:red">����1</h1>									<!--�����ǩ��һ�㷶Χ[1,6]-->
+	<h1 style="color:red">标题1</h1>									<!--标题标签，一般范围[1,6]-->
 
   </body>
 </html>
